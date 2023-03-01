@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tabs</string>
+    <string name="tab_text_1">Inicio</string>
+    <string name="tab_text_2">Registro</string>
+    <string name="tab_text_3">Contactos</string>
+    <string name="tab_text_4">Caciones Favoritas</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tema list</string>
+    <string-array name="planets_array">
+
+        <item>Desayuno</item>
+        <item>Merienda</item>
+        <item>Comida</item>
+        <item>Snack</item>
+        <item>Cena</item>
+
+    </string-array>
+</resources>
